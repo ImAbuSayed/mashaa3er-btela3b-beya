@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mashaa3er Btela3b Beya
+
+This log tracks the cryptographic history and versioning for the song **Mashaa3er Btela3b Beya** (mashaa3er-btela3b-beya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:00:41.449301 | `v1` | `7a97e346802d8c04a332e34d2307731e12327e9d7412db1d876d7d22df86030e` | `a29e30a0190cbaf988a7f865f9407da9e3e3d1890c497e64644ab9fe99e179c7` | `2026-05-08_mashaa3er-btela3b-beya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
